@@ -6,5 +6,7 @@ int main()
 
 	long long n;
 	cin >> n;
+
 	cout << 4 * n;
+
 }
