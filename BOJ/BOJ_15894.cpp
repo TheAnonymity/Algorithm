@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 
-	int n;
+	long long n;
 	cin >> n;
-	cout << (2 * n * 1) + n + (n * 1);
+	cout << 4 * n;
 }
