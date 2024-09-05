@@ -5,7 +5,7 @@ using namespace std;
 int arr[3];
 int main()
 {
-
+	//세수정렬
 
 	int min;
 	for (int i = 0; i < 3; i++) {
