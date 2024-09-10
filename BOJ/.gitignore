@@ -9,7 +9,9 @@
 *.user
 *.userosscache
 *.sln.docstates
-*.vcxproj
+
+
+//add
 *.vcxproj.filters
 *.vcxproj.user
 # User-specific files (MonoDevelop/Xamarin Studio)
