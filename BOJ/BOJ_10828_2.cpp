@@ -1,5 +1,6 @@
 #include <iostream>
 #include <stack>
+
 using namespace std;
 
 int main()
@@ -21,6 +22,9 @@ int main()
 		}
 
 		else if (a == "top") {
+			if (s.size() == 0)
+				cout << -1 << '\n';
+			else
 			cout << s.top() << '\n';
 		}
 
