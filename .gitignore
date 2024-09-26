@@ -12,6 +12,8 @@
 
 #add
 Manual/
+*.obsidian/
+강의자료/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
